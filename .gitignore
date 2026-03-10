@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+backend/outputs/reports/
+!backend/outputs/reports/.gitkeep
+backend/reports/
+
+# Claude Code local settings
+.claude/
+
+# Logs
+*.log
+logs/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+frontend/.env.local
+
+# OS
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
