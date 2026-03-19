@@ -29,6 +29,19 @@ Given a stock ticker (e.g., `AAPL`), EquityIQ generates a structured Markdown re
 
 ---
 
+## Screenshots
+
+### Analysis Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Investment Report
+![Report](docs/screenshots/report.png)
+
+### ESG Risk Assessment
+![ESG](docs/screenshots/esg.png)
+
+---
+
 ## Architecture
 
 ```
